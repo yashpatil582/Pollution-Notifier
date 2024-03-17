@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "466838915690",
+    "firebase_url": "https://pollution-notifier.firebaseio.com",
+    "project_id": "pollution-notifier",
+    "storage_bucket": "pollution-notifier.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466838915690:android:c63cdafa5a237846",
+        "android_client_info": {
+          "package_name": "swaroop.com.yash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466838915690-3th7eqes567shh5a4fjhdnha4bgnkq04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZGuMDLu3p3GvlBOlIxG4XXVHvgT0i2I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
