@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Yash</string>
+    <string name="auth_failed">authentication failed</string>
+</resources>
